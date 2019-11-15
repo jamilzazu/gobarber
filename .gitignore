@@ -2,3 +2,4 @@
 node_modules
 src/database/migrations
 yarn.lock
+tmp/uploads/*
